@@ -9,10 +9,10 @@ section{
 h2{
     text-transform: uppercase;
     text-align: center;
-    color: seagreen;
 }
 a{
     text-decoration: none;
+    color: seagreen;
 }
 a:hover{
     text-decoration-line: underline;
