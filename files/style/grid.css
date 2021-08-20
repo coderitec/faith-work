@@ -9,6 +9,7 @@ section{
 h2{
     text-transform: uppercase;
     text-align: center;
+    color: seagreen;
 }
 a{
     text-decoration: none;
